@@ -1,0 +1,12 @@
+{
+  "name": "rn-first-app",
+  "displayName": "rn-first-app",
+  "expo": {
+    "name": "rn-first-app",
+    "slug": "rn-first-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
