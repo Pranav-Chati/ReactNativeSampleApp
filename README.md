@@ -12,3 +12,8 @@ Run: npm install --global expo-cli
 
 Run: expo start
 ^^ to actually start up your program. Once the program has started up, then you can scan the qr code that is shown to you or use a virtual manager.
+
+Also download expo go on your phone
+
+more info on this site https://docs.expo.io/get-started/installation/
+
